@@ -1,2 +1,2 @@
 # GameboardSnake
-Gameboard = Snake + Monopoly D&amp;D
+Gameboard = Snake + Monopoly  D&amp;D
